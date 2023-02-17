@@ -1,7 +1,8 @@
-This github repository contains the materials for Build Lab 2a-2d.
+This repository contains materials required for Build Lab 2a-2d.
 
 **CAUTION**
-Please note that the "Binder" service provides a temporary environment to run your Python code: anything you do will be deleted after a while. Pleasse make sure you capture any outputs or download any files for your submissions.
+
+Please note that the "Binder" service provides a temporary environment to run your Python code. Any modifications or outputs will be deleted after a "timeout" or "exit.". Please make sure you capture any outputs, or download any files, necessary for your Lab submissions.
 
 Open Build Lab materials in [Binder](https://mybinder.org/v2/gh/tatsath/fin-ml/master):
 <a href="https://mybinder.org/v2/gh/tatsath/fin-ml/master"><img src="https://matthiasbussonnier.com/posts/img/binder_logo_128x128.png" width="90" /></a>
