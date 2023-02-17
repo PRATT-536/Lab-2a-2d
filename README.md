@@ -1,4 +1,8 @@
-This repository contains materials required for Build Lab 2a-2d.
+**BEFORE YOU START**
+
+*1. This repository only contains the Jupyter Notebooks required for Build Labs 2a-2d.
+
+*2. After running Binder, all Jupyter Notebooks will be available in a virtual environment - BUT you will have to upload the data files
 
 **CAUTION**
 
