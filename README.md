@@ -2,7 +2,7 @@ This repository contains materials required for Build Lab 2a-2d.
 
 **CAUTION**
 
-Please note that the "Binder" service provides a temporary environment to run your Python code. Any modifications or outputs will be deleted after a "timeout" or "exit.". Please make sure you capture any outputs, or download any files, necessary for your Lab submissions.
+Please note that the "Binder" service provides a temporary environment to run your Python code. Any modifications, or outputs, will be deleted after a "timeout" or "exit.". Please make sure you capture any outputs, or download any files, necessary for your Lab submissions.
 
 Open Build Lab materials in [Binder]
 
