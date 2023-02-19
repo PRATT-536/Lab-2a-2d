@@ -8,7 +8,7 @@ RECOMMENDATION
 
 Use the Binder service to create a virtual environment to run the Build Labs. Binder is a hosting service that will open the GitHub repository, and Build Lab folders, exactly like they open in Jupyter Notebook (Python environment). Binder does not require installation and it will run froom this page. The connections between folders and their Jupyter Notebooks files will work seamlessly. 
 
-Binder starts up quickly andof the analyses require a large amount of data which causes the cache to be slower than usual.
+Binder starts up quickly. However, it may be slower than usual if there have been changes to files in the GitHub repositoryand or if the analyses require a large amount of data 
 
 CAUTION 
 
