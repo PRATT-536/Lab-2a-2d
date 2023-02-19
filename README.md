@@ -18,5 +18,6 @@ Open Binder by clicking here https://github.com/PRATT-536/Lab-2a-2d.git
 
 or clicking this icon:
 
-(https://mybinder.org/v2/gh/tatsath/fin-ml/master):
-<a href="https://mybinder.org/v2/gh/tatsath/fin-ml/master"><img src="https://matthiasbussonnier.com/posts/img/binder_logo_128x128.png" width="90" /></a>
+(https://mybinder.org/v2/gh/PRATT-536/Lab-2a-2d/HEAD):
+
+<a href="https://mybinder.org/v2/gh/PRATT-536/Lab-2a-2d/HEAD"><img src="https://matthiasbussonnier.com/posts/img/binder_logo_128x128.png" width="90" /></a>
