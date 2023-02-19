@@ -14,7 +14,7 @@ CAUTION
 
 Please be aware that Binder provides a temporary enviroment. Edits, or outputs, will be deleted -- so make sure you regularly download any modified files.
 
-Open Binder by clicking here https://mybinder.org/v2/gh/tatsath/fin-ml/master
+Open Binder by clicking here https://github.com/PRATT-536/Lab-2a-2d.git
 
 or clicking this icon:
 
