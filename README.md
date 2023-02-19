@@ -14,8 +14,8 @@ CAUTION
 
 Please be aware that Binder provides a temporary enviroment. Edits, or outputs, will be deleted -- so make sure you regularly download any modified files.
 
-Open Binder by clicking here https://mybinder.org/v2/gh/PRATT-536/Lab-2a-2d/HEAD
-
-or clicking this icon:
+OPEN BINDER BY CLICKING THIS ICON:
 
 <a href="https://mybinder.org/v2/gh/PRATT-536/Lab-2a-2d/HEAD"><img src="https://matthiasbussonnier.com/posts/img/binder_logo_128x128.png" width="90" /></a>
+
+ALTERNATIVELY Open Binder by clicking here https://mybinder.org/v2/gh/PRATT-536/Lab-2a-2d/HEAD
