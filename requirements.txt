@@ -1,4 +1,4 @@
-!pip install --upgrade setuptools wheel
+pip install --upgrade setuptools wheel
 absl-py==1.4.0
 appdirs==1.4.4
 astunparse==1.6.3
