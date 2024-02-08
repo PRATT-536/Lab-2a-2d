@@ -29,6 +29,7 @@ joblib
 jupyter
 jupyter-console
 jupyter_core
+jupyter_lab
 keras
 kiwisolver
 libclang
