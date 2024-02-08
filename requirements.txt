@@ -28,7 +28,7 @@ ipython-genutils
 joblib
 jupyter
 jupyter-console
-pip install jupyterlab
+pip install --upgrade jupyterlab
 Jupyter Lab
 keras
 kiwisolver
