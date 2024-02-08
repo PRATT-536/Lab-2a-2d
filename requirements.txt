@@ -27,7 +27,6 @@ inflection
 ipython-genutils
 joblib
 jupyter
-Jupyter Lab
 jupyter-console
 keras
 kiwisolver
