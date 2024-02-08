@@ -27,9 +27,8 @@ inflection
 ipython-genutils
 joblib
 jupyter
-jupyter-console
-pip install jupyterlab jupyterlab-git
 Jupyter Lab
+jupyter-console
 keras
 kiwisolver
 libclang
