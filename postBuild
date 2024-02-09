@@ -1,0 +1,2 @@
+jupyter labextension install --no-build jupyter-jacdac
+jupyter lab build --minimize=False
